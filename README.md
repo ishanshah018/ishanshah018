@@ -1,7 +1,7 @@
 <img align="top" alt="coding" width="900px" height="340px" src="https://github.com/ishanshah018/ishanshah018/blob/main/GitHub%20banner.png">
 <h1 align="center">Hi 👋, I'm Ishan Shah</h1>
 <h3 align="center">Driven by Logic, Powered by Code</h3>
-<img align="right" width="440" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="380" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanshah018&label=Profile%20views&color=0e75b6&style=flat" alt="ishanshah018" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
