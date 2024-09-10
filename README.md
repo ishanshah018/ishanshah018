@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 Browse through my entire collection of codes here [https://github.com/ishanshah018](https://github.com/ishanshah018)
+- 👨‍💻 Browse through my entire collection of codes on My GitHub
 
 - 📫 How to reach me **ishanrshah087@gmail.com**
 
