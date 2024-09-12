@@ -3,12 +3,13 @@
 <h3 align="center">Driven by Logic, Powered by Code</h3>
 <img align="right" width="380" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanshah018&label=Profile%20views&color=0e75b6&style=flat" alt="ishanshah018" /> </p>
+- 🌟 Proficient in **Java**, C++
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 Browse through my entire collection of codes on My GitHub
 
-- 📫 How to reach me **ishanrshah087@gmail.com**
+- 📫 How to reach me - **ishanrshah087@gmail.com**
 
 - ⚡ Fun fact: **I can code with a cup of coffee in hand ~ multitasking at its finest!"**
 
